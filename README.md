@@ -2,6 +2,8 @@
 
 @saturnedev12
 
+## Timer APP
+
 a simple pomodoro type application to program a deep work time of up to 2 hours non-stop.
 
 ### Pattern:
