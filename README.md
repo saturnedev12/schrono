@@ -1,16 +1,13 @@
 # schrono
 
-A new Flutter project.
+@saturnedev12
 
-## Getting Started
+a simple pomodoro type application to program a deep work time of up to 2 hours non-stop.
 
-This project is a starting point for a Flutter application.
+### Pattern:
 
-A few resources to get you started if this is your first Flutter project:
+- Bloc
+- Hexagonal architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image info](https://raw.githubusercontent.com/saturnedev12/schrono/main/assets/capt1.png)
+![image info](https://raw.githubusercontent.com/saturnedev12/schrono/main/assets/capt2.png)
